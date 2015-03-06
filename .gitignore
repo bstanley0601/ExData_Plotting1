@@ -2,4 +2,5 @@
 *.txt
 *.zip
 .Rhistory
-.RData
+.Rdata
+.Rapp.history
