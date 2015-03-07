@@ -1,3 +1,8 @@
+## Execution
+The plot0.R script sets up the environment, loads the necessary libraries, downloads and unzips the data file 
+and sources and executes the plot1, plot2, plot3, and plot4 functions to create the png files. 
+source("./plot0.R"")
+
 ## Introduction
 
 This assignment uses data from
@@ -111,8 +116,3 @@ The four plots that you will need to construct are shown below.
 ### Plot 4
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
-
-## Execution
-The plot0.R script sets up the environment, loads the necessary libraries, downloads and unzips the data file 
-and sources and executes the plot1, plot2, plot3, and plot4 functions to create the png files. 
-source("./plot0.R"")
